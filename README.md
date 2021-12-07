@@ -5,6 +5,7 @@ This repo is demonstration on the basic principles on network analysis using a p
 ![chords_flights](imgs/chords_flights.gif)
 
 **Reyne Jasson**
+
 **Edson Breno**
 
 This analysis was made possible thanks to Alvaro's [Flights in Brazil](https://github.com/alvarofpp/dataset-flights-brazil) repo .
